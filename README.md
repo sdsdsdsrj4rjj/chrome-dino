@@ -15,7 +15,7 @@ Basically, you only need to download the files, then open the HTML file on a bro
 
 # ❕Installation and running❕
 Follow these steps:
-1. Install all of the files of this repo (in order to do this click on the green button that says "Code" and click on "Install .zip")
+1. Install all of the files of this repo (in order to do this click on the green button that says "Code" and click on "Download ZIP")
 2. Open your ''Downloads'' (or equivalent) folder and extract Chrome-Dino's folder
 3. Open the HTML file that is inside the Chrome-Dino's folder by executing it on Google Chrome (or Firefox, or Bing), just double click the file
 
