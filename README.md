@@ -12,6 +12,7 @@ Basically, you only need to download the files, then open the HTML file on a bro
 
 ⚠️ Additional information ⚠️
 6. This wasn't tested on Bing ; but should work as this browser supports HTML and JS execution ❎
+
 7. This wasn't tested on Firefox ; but should work as this browser supports HTML and JS execution ❎
 
 # Installation and running
