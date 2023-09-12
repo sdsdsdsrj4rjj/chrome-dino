@@ -9,11 +9,9 @@ Basically, you only need to download the files, then open the HTML file on a bro
 2. This was tested on Google Chromebook (OS Version: 84.0.4147.136) managed by an organization ✔️
 3. This was tested on Google Chromebook (OS Version: 84.0.4147.136) in a managed network ✔️
 4. This was tested on Google Chrome (Version 111.0.5563.64 64BIT) ✔️
+5. This wasn't tested on Bing ; but should work as this browser supports HTML and JS execution ⚠️
+6.  This wasn't tested on Firefox ; but should work as this browser supports HTML and JS execution ⚠️
 
-⚠️ Additional information ⚠️
-6. This wasn't tested on Bing ; but should work as this browser supports HTML and JS execution ❎
-
-7. This wasn't tested on Firefox ; but should work as this browser supports HTML and JS execution ❎
 
 # Installation and running
 Follow these steps:
